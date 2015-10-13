@@ -1,2 +1,2 @@
-# storm-applied-scala
-Storm applied book examples in Scala
+# Storm Applied Book Examples
+In Scala
